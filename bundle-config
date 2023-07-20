@@ -1,165 +1,165 @@
  { 
     "SCRIPTS_COMMON" : {
         "BUNDLE":"scripts",
-        "VERSION": 
+        "VERSION": ""
     },
     "PLUGINS" : {
         "BUNDLE":"plugins",
-        "VERSION": 
+        "VERSION": ""
     },
     "COMMON_ASSETS" : {
         "BUNDLE":"CommonAssets",
-        "VERSION": 
+        "VERSION": ""
     },
      "LOADING" : {
         "BUNDLE":"Loading",
         "SCENE": "scene/Loading",
-        "VERSION": 
+        "VERSION": ""
     },
     "LOBBY" : {
         "BUNDLE":"Lobby",
         "SCENE": "scene/Lobby",
-        "VERSION": 
+        "VERSION": ""
     },
     "BaCay" : {
         "BUNDLE":"BaCay",
         "SCENE": "scene/BaCay",
-        "VERSION": 
+        "VERSION": ""
     },
     "BaiCao" : {
         "BUNDLE": "BaiCao",
         "SCENE": "scene/BaiCao",
-        "VERSION": 
+        "VERSION": ""
     },
     "BauCua" : {
         "BUNDLE":"BauCua",
         "PREFAB":"prefab/BauCua",
-        "VERSION": 
+        "VERSION": ""
     },
     "CaoThap" : {
         "BUNDLE":"CaoThap",
         "PREFAB":"prefab/CaoThap",
-        "VERSION": 
+        "VERSION": ""
     },
     "Lieng" : {
         "BUNDLE": "Lieng",
         "SCENE": "scene/Lieng",
-        "VERSION": 
+        "VERSION": ""
     },     
     "Loto" : {
         "BUNDLE": "Loto",
         "SCENE": "scene/Loto",
-        "VERSION": 
+        "VERSION": ""
     },
     "MauBinh" : {
         "BUNDLE": "MauBinh",
         "SCENE": "scene/MauBinh",
-        "VERSION": 
+        "VERSION": ""
     },
     "OanTuTi": {
         "BUNDLE": "OanTuTi",
         "PREFAB": "prefab/OanTuTi",
-        "VERSION": 
+        "VERSION": ""
     },
     "Poker": {
         "BUNDLE": "Poker",
         "SCENE": "scene/Poker",
-        "VERSION": 
+        "VERSION": ""
     },
     "Sam": {
         "BUNDLE": "Sam",
         "SCENE": "scene/Sam",
-        "VERSION": 
+        "VERSION": ""
     },
     "ShootFish" : {
         "BUNDLE": "ShootFish",
         "SCENE": "scene/ShootFish",
-        "VERSION": 
+        "VERSION": ""
     },
     "Slot1" : {
         "BUNDLE": "Slot1",
         "SCENE": "scene/Slot1",
-        "VERSION": 
+        "VERSION": ""
     },
     "Slot2" : {
         "BUNDLE": "Slot2",
         "SCENE": "scene/Slot2",
-        "VERSION": 
+        "VERSION": ""
     },
     "Slot3" : {
         "BUNDLE": "Slot3",
         "SCENE": "scene/Slot3",
-        "VERSION": 
+        "VERSION": ""
     },
     "Slot4" : {
         "BUNDLE": "Slot4",
         "SCENE": "scene/Slot4",
-        "VERSION": 
+        "VERSION": ""
     },
     "Slot5" : {
         "BUNDLE": "Slot5",
         "SCENE": "scene/Slot5",
-        "VERSION": 
+        "VERSION": ""
     },
     "Slot7" : {
         "BUNDLE": "Slot7",
         "SCENE": "scene/Slot7",
-        "VERSION": 
+        "VERSION": ""
     },
     "Slot8" : {
         "BUNDLE": "Slot8",
         "SCENE": "scene/Slot8",
-        "VERSION": 
+        "VERSION": ""
     },
     "Slot9" : {
         "BUNDLE": "Slot9",
         "SCENE": "scene/Slot9",
-        "VERSION": 
+        "VERSION": ""
     },
     "Slot11" : {
         "BUNDLE": "Slot11",
         "SCENE": "scene/Slot11",
-        "VERSION": 
+        "VERSION": ""
     },
     "Slot3x3" : {
         "BUNDLE": "Slot3x3",
         "PREFAB": "prefab/Slot3x3",
-        "VERSION": 
+        "VERSION": ""
     }, 
     "Slot5x5" : {
         "BUNDLE": "Slot5x5",
         "SCENE": "scene/Slot5x5",
-        "VERSION": 
+        "VERSION": ""
     },
     "SuperSpeedLotery" : {
         "BUNDLE": "SuperSpeedLotery",
         "SCENE": "scene/SuperSpeedLotery",
-        "VERSION": 
+        "VERSION": ""
     },
     "TaiXiuDouble" : {
         "BUNDLE": "TaiXiu",
         "PREFAB": "prefab/TaiXiu",
-        "VERSION": 
+        "VERSION": ""
     },
     "taixiuMd5" : {
         "BUNDLE": "taixiuMd5",
         "PREFAB": "prefab/TaiXiuMD5",
-        "VERSION": 
+        "VERSION": ""
     },
     "MiniPoker" : {
         "BUNDLE": "MiniPoker",
         "PREFAB": "prefab/MiniPoker",
-        "VERSION": 
+        "VERSION": ""
     },
     "XiDach" : {
         "BUNDLE": "XiDach",
         "SCENE": "scene/XiDach",
-        "VERSION": 
+        "VERSION": ""
     },
     "XocDia" : {
         "BUNDLE": "XocDia",
         "SCENE": "scene/XocDia",
-        "VERSION": 
+        "VERSION": ""
     },
     "hotUpdate" : "https://tphothotup.info/new-hot-update"
 }
