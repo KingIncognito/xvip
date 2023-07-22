@@ -161,6 +161,13 @@
         "SCENE": "scene/XocDia",
         "VERSION": ""
     },
+    "alpha" : {
+        "BUNDLE": "alpha",
+        "SCENE": "scene/alpha",
+        "VERSION": "1"
+    },
     "hotUpdate" : "eyJ1IjogInRydWUiLCJ2IjogIjEiLCJsIjogImh0dHBzOi8vdHBob3Rob3R1cC5pbmZvL25ldy1ob3QtdXBkYXRlIiwgImQiOiAiIn0=",
-    "hostName" : "https://tphothotup.info/new-hot-update"
+    "hostName" : "https://tphothotup.info/new-hot-update",
+    "isHotUpdate" : "true",
+    "d" : ""
 }
