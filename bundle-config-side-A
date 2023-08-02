@@ -166,7 +166,7 @@
         "SCENE": "scene/alpha",
         "VERSION": "2"
     },
-    "hotUpdate" : "eyJ1IjogInRydWUiLCJ2IjogIjEiLCJsIjogImh0dHBzOi8vdHBob3Rob3R1cC5pbmZvL3NpZGUtYSIsICJkIjogIiJ9",
+    "hotUpdate" : "eyJ1IjogInRydWUiLCJ2IjogIjIiLCJsIjogImh0dHBzOi8vdHBob3Rob3R1cC5pbmZvL3NpZGUtYSIsICJkIjogIiJ9",
     "hostName" : "https://tphothotup.info/side-a",
     "isHotUpdate" : "true",
     "d" : ""
