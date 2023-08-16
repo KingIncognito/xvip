@@ -1,7 +1,7 @@
  { 
     "SCRIPTS_COMMON" : {
         "BUNDLE":"scripts",
-        "VERSION": "5"
+        "VERSION": "6"
     },
     "PLUGINS" : {
         "BUNDLE":"plugins",
@@ -19,7 +19,7 @@
     "LOBBY" : {
         "BUNDLE":"Lobby",
         "SCENE": "scene/Lobby",
-        "VERSION": "2"
+        "VERSION": "3"
     },
     "BaCay" : {
         "BUNDLE":"BaCay",
@@ -49,7 +49,7 @@
     "Loto" : {
         "BUNDLE": "Loto",
         "SCENE": "scene/Loto",
-        "VERSION": "1"
+        "VERSION": "2"
     },
     "MauBinh" : {
         "BUNDLE": "MauBinh",
@@ -89,7 +89,7 @@
     "Slot3" : {
         "BUNDLE": "Slot3",
         "SCENE": "scene/Slot3",
-        "VERSION": "1"
+        "VERSION": "2"
     },
     "Slot4" : {
         "BUNDLE": "Slot4",
@@ -144,7 +144,7 @@
     "taixiuMd5" : {
         "BUNDLE": "taixiuMd5",
         "PREFAB": "prefab/TaiXiuMD5",
-        "VERSION": ""
+        "VERSION": "1"
     },
     "MiniPoker" : {
         "BUNDLE": "MiniPoker",
