@@ -1,7 +1,7 @@
  { 
     "SCRIPTS_COMMON" : {
         "BUNDLE":"scripts",
-        "VERSION": "4"
+        "VERSION": "5"
     },
     "PLUGINS" : {
         "BUNDLE":"plugins",
@@ -9,7 +9,7 @@
     },
     "COMMON_ASSETS" : {
         "BUNDLE":"CommonAssets",
-        "VERSION": ""
+        "VERSION": "1"
     },
      "LOADING" : {
         "BUNDLE":"Loading",
@@ -19,7 +19,7 @@
     "LOBBY" : {
         "BUNDLE":"Lobby",
         "SCENE": "scene/Lobby",
-        "VERSION": "1"
+        "VERSION": "2"
     },
     "BaCay" : {
         "BUNDLE":"BaCay",
@@ -49,7 +49,7 @@
     "Loto" : {
         "BUNDLE": "Loto",
         "SCENE": "scene/Loto",
-        "VERSION": ""
+        "VERSION": "1"
     },
     "MauBinh" : {
         "BUNDLE": "MauBinh",
@@ -89,7 +89,7 @@
     "Slot3" : {
         "BUNDLE": "Slot3",
         "SCENE": "scene/Slot3",
-        "VERSION": ""
+        "VERSION": "1"
     },
     "Slot4" : {
         "BUNDLE": "Slot4",
@@ -134,7 +134,7 @@
     "SuperSpeedLotery" : {
         "BUNDLE": "SuperSpeedLotery",
         "SCENE": "scene/SuperSpeedLotery",
-        "VERSION": "1"
+        "VERSION": "2"
     },
     "TaiXiuDouble" : {
         "BUNDLE": "TaiXiu",
@@ -160,6 +160,11 @@
         "BUNDLE": "XocDia",
         "SCENE": "scene/XocDia",
         "VERSION": ""
+    },
+    "Aviator" : {
+        "BUNDLE": "aviator",
+        "SCENE": "scene/Aviator",
+        "VERSION": "11"
     },
     "alpha" : {
         "BUNDLE": "alpha",
