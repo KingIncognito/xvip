@@ -1,7 +1,7 @@
  { 
     "SCRIPTS_COMMON" : {
         "BUNDLE":"scripts",
-        "VERSION": "6"
+        "VERSION": "7"
     },
     "PLUGINS" : {
         "BUNDLE":"plugins",
@@ -19,7 +19,7 @@
     "LOBBY" : {
         "BUNDLE":"Lobby",
         "SCENE": "scene/Lobby",
-        "VERSION": "3"
+        "VERSION": "4"
     },
     "BaCay" : {
         "BUNDLE":"BaCay",
@@ -84,7 +84,7 @@
     "Slot2" : {
         "BUNDLE": "Slot2",
         "SCENE": "scene/Slot2",
-        "VERSION": ""
+        "VERSION": "1"
     },
     "Slot3" : {
         "BUNDLE": "Slot3",
@@ -134,7 +134,7 @@
     "SuperSpeedLotery" : {
         "BUNDLE": "SuperSpeedLotery",
         "SCENE": "scene/SuperSpeedLotery",
-        "VERSION": "2"
+        "VERSION": "3"
     },
     "TaiXiuDouble" : {
         "BUNDLE": "TaiXiu",
@@ -164,7 +164,7 @@
     "Aviator" : {
         "BUNDLE": "aviator",
         "SCENE": "scene/Aviator",
-        "VERSION": "11"
+        "VERSION": "3"
     },
     "alpha" : {
         "BUNDLE": "alpha",
