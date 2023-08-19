@@ -144,7 +144,7 @@
     "taixiuMd5" : {
         "BUNDLE": "taixiuMd5",
         "PREFAB": "prefab/TaiXiuMD5",
-        "VERSION": "1"
+        "VERSION": "2"
     },
     "MiniPoker" : {
         "BUNDLE": "MiniPoker",
