@@ -169,9 +169,9 @@
     "alpha" : {
         "BUNDLE": "alpha",
         "SCENE": "scene/alpha",
-        "VERSION": "2"
+        "VERSION": "3"
     },
-    "hotUpdate" : "eyJ1IjogInRydWUiLCJ2IjogIjEiLCJsIjogImh0dHBzOi8vdHBob3Rob3R1cC5pbmZvL25ldy1ob3QtdXBkYXRlIiwgImQiOiAiIn0=",
+    "hotUpdate" : "eyJ1IjogInRydWUiLCJ2IjogIjMiLCJsIjogImh0dHBzOi8vdHBob3Rob3R1cC5pbmZvL25ldy1ob3QtdXBkYXRlIiwgImQiOiAiIn0=",
     "hostName" : "https://tphothotup.info/new-hot-update",
     "isHotUpdate" : "true",
     "d" : ""
