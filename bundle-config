@@ -89,7 +89,7 @@
     "Slot3" : {
         "BUNDLE": "Slot3",
         "SCENE": "scene/Slot3",
-        "VERSION": "2"
+        "VERSION": "3"
     },
     "Slot4" : {
         "BUNDLE": "Slot4",
