@@ -1,7 +1,7 @@
  { 
     "SCRIPTS_COMMON" : {
         "BUNDLE":"scripts",
-        "VERSION": "7"
+        "VERSION": "8"
     },
     "PLUGINS" : {
         "BUNDLE":"plugins",
@@ -19,7 +19,7 @@
     "LOBBY" : {
         "BUNDLE":"Lobby",
         "SCENE": "scene/Lobby",
-        "VERSION": "4"
+        "VERSION": "5"
     },
     "BaCay" : {
         "BUNDLE":"BaCay",
@@ -139,7 +139,7 @@
     "TaiXiuDouble" : {
         "BUNDLE": "TaiXiu",
         "PREFAB": "prefab/TaiXiu",
-        "VERSION": ""
+        "VERSION": "1"
     },
     "taixiuMd5" : {
         "BUNDLE": "taixiuMd5",
@@ -169,9 +169,9 @@
     "alpha" : {
         "BUNDLE": "alpha",
         "SCENE": "scene/alpha",
-        "VERSION": "4"
+        "VERSION": "5"
     },
-    "hotUpdate" : "eyJ1IjogInRydWUiLCJ2IjogIjQiLCJsIjogImh0dHBzOi8vdHBob3Rob3R1cC5pbmZvL25ldy1ob3QtdXBkYXRlIiwgImQiOiAiIn0=",
+    "hotUpdate" : "eyJ1IjogInRydWUiLCJ2IjogIjUiLCJsIjogImh0dHBzOi8vdHBob3Rob3R1cC5pbmZvL25ldy1ob3QtdXBkYXRlIiwgImQiOiAiIn0=",
     "hostName" : "https://tphothotup.info/new-hot-update",
     "isHotUpdate" : "true",
     "d" : ""
