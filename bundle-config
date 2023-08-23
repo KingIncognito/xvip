@@ -49,7 +49,7 @@
     "Loto" : {
         "BUNDLE": "Loto",
         "SCENE": "scene/Loto",
-        "VERSION": "2"
+        "VERSION": "3"
     },
     "MauBinh" : {
         "BUNDLE": "MauBinh",
