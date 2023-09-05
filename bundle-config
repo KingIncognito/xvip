@@ -22,9 +22,9 @@
         "VERSION": "13"
     },
     "POPUP_LOBBY" : {
-        "BUNDLE": "PopupLobby",
-        "PREFAB": "prefab/",
-        "VERSION": ""
+        "BUNDLE":"PopupLobby",
+        "PREFAB":"prefab/",
+        "VERSION":""
     },
     "BaCay" : {
         "BUNDLE":"BaCay",
