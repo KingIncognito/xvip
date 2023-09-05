@@ -21,7 +21,7 @@
         "SCENE": "scene/Lobby",
         "VERSION": "13"
     },
-    POPUP_LOBBY : {
+    "POPUP_LOBBY" : {
         "BUNDLE": "PopupLobby",
         "PREFAB": "prefab/",
         "VERSION": ""
