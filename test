@@ -174,7 +174,7 @@
     "alpha" : {
         "BUNDLE": "alpha",
         "SCENE": "scene/alpha",
-        "VERSION": ""
+        "VERSION": "1"
     },
     "hotUpdate" : "eyJ1IjogInRydWUiLCJ2IjogIiIsImwiOiAiaHR0cHM6Ly90cGhvdGhvdHVwLmluZm8vdGVzdC1ob3R1cGRhdGUiLCAiZCI6ICIifQ==",
     "hostName" : "https://tphothotup.info/test-hotupdate",
