@@ -1,7 +1,7 @@
  { 
     "SCRIPTS_COMMON" : {
         "BUNDLE":"scripts",
-        "VERSION": "1"
+        "VERSION": ""
     },
     "PLUGINS" : {
         "BUNDLE":"plugins",
@@ -9,22 +9,22 @@
     },
     "COMMON_ASSETS" : {
         "BUNDLE":"CommonAssets",
-        "VERSION": "1"
+        "VERSION": ""
     },
      "LOADING" : {
         "BUNDLE":"Loading",
         "SCENE": "scene/Loading",
-        "VERSION": "1"
+        "VERSION": ""
     },
     "LOBBY" : {
         "BUNDLE":"Lobby",
         "SCENE": "scene/Lobby",
-        "VERSION": "1"
+        "VERSION": ""
     },
     "POPUP_LOBBY" : {
         "BUNDLE":"PopupLobby",
         "PREFAB":"prefab/",
-        "VERSION":"1"
+        "VERSION":""
     },
     "BaCay" : {
         "BUNDLE":"BaCay",
